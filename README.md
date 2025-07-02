@@ -7,6 +7,7 @@
 ![Supertest](https://img.shields.io/badge/Supertest-444444?style=for-the-badge)
 
 ### Archive for all of the activities and Labs for Software Testing
+Laboratory Partner : https://github.com/sheshh00
 
 ![image](https://github.com/user-attachments/assets/1b35df0e-b76b-4044-b21b-169273b19720)
 [![Lab 1](https://img.shields.io/badge/Lab_1-1E90FF?style=for-the-badge)](/Lab_1)
